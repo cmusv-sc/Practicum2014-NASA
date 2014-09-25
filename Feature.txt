@@ -1,0 +1,6 @@
+Feature_Name {Set_of_Values}
+ 
+ domain-similarity{ H, M, L}
+ reputation-similarity { H, M, L}
+ connectedness-similarity { H, M, L}
+ coauthorship-history{H,M,L}
