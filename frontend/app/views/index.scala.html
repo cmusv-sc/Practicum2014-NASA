@@ -1,0 +1,136 @@
+
+@main("DblpFrontend"){
+
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-lg-6">
+
+        <img src='@routes.Assets.at("images/network.png")' style="padding-bottom: 0;">
+
+      </div>
+      <div class="col-lg-6">
+        <h1>Research Community Service Platform</h1>
+        <p>A data driven service to recommend papers and network collaborators for the research community</p>
+        <!-- TODO -->
+        <a class="btn btn-lg btn-default" href="/">Get Started &raquo;</a>
+        <p> Generate Scientific Collaboration Network </p>
+        <a class="btn btn-lg btn-default" href="/graphDisplay"> Collaboration Network &raquo;</a>
+        <!-- Button trigger modal -->
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" style="display:none;"data-target="#myModal">
+   Search Options 
+</button>
+      </div>
+    </div>
+  </div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="myModalLabel">Search By</h4>
+      </div>
+      <div class="modal-body">
+      <form name="searchmodal">
+<input type="radio" name="search_by" value="Topic" checked onClick="toggleDiv('bytopic','byauthor')"><b><i>&nbsp;&nbsp;TOPIC</i></b>
+<br>
+<div name="topic_search"  id="bytopic">
+        <p class="search_title">Enter Topics(Multiple topics separated by comma): <input type="text" class="text-input" id="topictextbox_modal" value="" /></p>
+       <p>Sort by:
+        <select id="sort_select_topic_modal">
+          <option value="Publication">Publication Count</option>
+          <option value="Citation">Citation Count</option>
+        </select></p>
+      <p>Limit to:
+        <select id="limit_select_topic_modal">
+        <option value="10">Less than 10</option>
+        <option value="30">Less than 30</option>
+          <option value="50">Less than 50</option>
+          <option value="100">Less than 100</option>
+        </select></p>
+         <p><input name="trust_modal" type="checkbox" onclick="toggleCheckbox('trustbyauthor')">Add Trust Score
+         <div name="Author_trustsearch" style="display:none;" id="trustbyauthor">
+         Enter Author Name:<input type="text" class="text-input" id="author" value=""></p> 
+      </div>
+      </div>
+<input type="radio" name="search_by" value="Author" onClick="toggleDiv('byauthor','bytopic')"><b><i>&nbsp;&nbsp;AUTHOR</i></b>
+<div name="Author_search" style="display:none;" id="byauthor">
+        <p class="search_title"> Enter Author Name:<input type="text" class="text-input" id="author_modal" value="" /></p>
+        <p>Sort by:
+        <select id="sort_select_author_modal">
+          <option value="Publication">Publication Count</option>
+          <option value="Citation">Citation Count</option>
+        </select></p>
+      <p>Limit to:
+        <select id="limit_select_author_modal">
+        <option value="10">Less than 10</option>
+        <option value="30">Less than 30</option>
+          <option value="50">Less than 50</option>
+          <option value="100">Less than 100</option>
+        </select></p>
+         <p><input name="trustauthor" type="checkbox" onclick="toggleCheckboxauthor('trustbyauthor1')">Add Trust Score
+         <div name="Author_trustsearch" style="display:none;" id="trustbyauthor1">
+         Enter Author Name:<input type="text" class="text-input" id="author" value=""></p> 
+      </div>
+      </div>
+      
+</form>
+      
+      
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" id="modalsearch" >Search</button>
+      </div>
+    </div>
+  </div>
+</div>
+ <script defer src='@routes.Assets.at("js/plugins.js")'></script>
+  <script defer src='@routes.Assets.at("js/script.js")'></script>
+  <script src='@routes.Assets.at("js/libs/coffee-script.js")'></script>
+  <script src='@routes.Assets.at("js/libs/d3.v2.js")'></script>
+  <script src='@routes.Assets.at("js/Tooltip.js")'></script>
+  <script src='@routes.Assets.at("js/vis.js")'></script>
+ <script src="@controllers.routes.Application.javascriptRoutes()" type="text/javascript">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+function toggleDiv(divId1,divId2) {
+	   $("#"+divId1).show();
+	   $("#"+divId2).hide();
+	   	
+	}
+	
+
+	
+/* document.getElementById("modalsearch").onclick = function () {
+    location.href = "/graphDisplay";
+}; */
+</script>
+<SCRIPT LANGUAGE="JavaScript">
+function fullName(form) {
+    for (var i = 0; i < form.search_by.length; i++) {
+        if (form.search_by[i].checked) {
+            break
+        }
+    }
+    alert("You chose " + form.search_by[i].value + ".")
+    document.getElementById('bytopic').style.display = "block";
+}
+function toggleCheckbox(element)
+{
+	if (searchmodal.trust.checked) 
+		$("#"+element).hide();
+	else
+		$("#"+element).hide();
+}
+function toggleCheckboxauthor(element)
+{
+	if (searchmodal.trustauthor.checked) 
+		$("#"+element).hide();
+	else
+		$("#"+element).hide();
+}
+</SCRIPT>
+}

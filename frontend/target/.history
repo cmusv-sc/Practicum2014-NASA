@@ -1,0 +1,41 @@
+run 9090
+play install mongo-1.3
+install mongo-1.3
+exit
+run
+run 8080
+clean
+compile
+run 8080
+clean; play
+compile
+run 8080
+clean
+compile
+run 8080
+clean
+compile
+run 8080
+clean; compile
+clean
+compile
+clean
+compile
+run 8080
+clean
+compile
+run 8080
+compile
+clean
+compile
+clean;
+clean
+compile
+clean
+compile
+play run
+run 8080
+clear
+run 8080
+play run 8080
+run 8080

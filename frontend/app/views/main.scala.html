@@ -1,0 +1,47 @@
+@(title: String)(content: Html) 
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+
+    <title>@title</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href='@routes.Assets.at("stylesheets/bootstrap.css")'>
+    <link rel="stylesheet" href='@routes.Assets.at("stylesheets/navbar-fixed-top.css")'>
+    <link rel="stylesheet" href='@routes.Assets.at("stylesheets/custom.css")'>
+    <link rel="stylesheet" media="screen" href='@routes.Assets.at("stylesheets/main.css")'>
+    <link rel="shortcut icon" type="image/png" href='@routes.Assets.at("images/favicon.png")'>
+
+    <link href='@routes.Assets.at("stylesheets/bootstrap-editable.css")' rel="stylesheet" />
+
+    <script src='@routes.Assets.at("javascripts/jquery-1.9.0.min.js")' type="text/javascript"></script>
+    <script src='@routes.Assets.at("javascripts/bootstrap.min.js")' type="text/javascript"></script>
+    <script src='@routes.Assets.at("javascripts/bootstrap-editable.min.js")'></script>
+
+  </head>
+
+  <body>
+
+    @header()
+
+    <div class="container">
+
+      @content
+
+      <!-- Footer -->
+      <div class="footer">
+        <div class="row">
+          <div class="col-lg-4 col-lg-offset-8">
+            <p class="text-muted" style="text-align: right; font-size: 14px;">&copy; Carnegie Mellon University. Silicon Valley. 2014</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+</html>

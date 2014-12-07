@@ -1,0 +1,506 @@
+{
+  "nodes": [
+    {
+      "match": 1.0,
+      "name": "Interactive Support for Non-Programmers",
+      "artist": "E. F. Codd",
+      "shape":0,
+      "id": "paparazzi_lady_gaga","group":"Author",
+      "playcount": 7822055
+      
+    },
+    {
+      "match": 0.93449,
+      "name": "The Relational and Network Approaches.",
+      "artist": "C. J. Date",
+      "shape":0,
+      "id": "bad_romance_lady_gaga","group":"Author",
+      "playcount": 9835214
+    },
+    {
+      "match": 0.304689,
+      "name": "Bridging Objects with Logical Rules",
+      "artist": "Letizia Tanca",
+      "shape":1,
+      "id": "tik_tok_keha","group":"Author",
+      "playcount": 7332582
+    },
+    {
+      "match": 0.268232,
+      "name": "ROSAR - Rule Oriented System for Analysis of Reflections on Printed Circuit Boards",
+      "artist": "Dominik Ley",
+      "shape":0,
+      "id": "sm_rihanna","group":"Author",
+      "playcount": 3489930
+    },
+    {
+      "match": 0.267948,
+      "name": "Lions' Commentary on UNIX",
+      "artist": "John Lions",
+      "shape":1,
+      "id": "only_girl_in_the_world_rihanna","group":"Author",
+      "playcount": 4775088
+    },
+    {
+      "match": 0.267777,
+      "name": "ASM-Based Specification of Programming Language Semantics",
+      "artist": "Andreas Heberle",
+      "shape":0,
+      "id": "we_r_who_we_r_keha","group":"Author",
+      "playcount": 2886516
+    },
+    {
+      "match": 0.25547,
+      "name": "Java Concurrency Using Abstract State Machines.",
+      "artist": "Yuri Gurevich",
+      "shape":0,
+      "id": "toxic_britney_spears","group":"Author",
+      "playcount": 3712890
+    },
+    {
+      "match": 0.255235,
+      "name": "Software Testing Research and Practice.",
+      "artist": "Antonia Bertolino",
+      "shape":0,
+      "id": "i_kissed_a_girl_katy_perry","group":"Author",
+      "playcount": 6366623
+    },
+    {
+      "match": 0.249098,
+      "name": "Finite Cursor Machines in Database Query",
+      "artist": "Jan Van den",
+      "shape":1,
+      "id": "till_the_world_ends_britney_spears","group":"Author",
+      "playcount": 3997509
+    },
+    {
+      "match": 0.245299,
+      "name": "An Executable Specification of C++",
+      "artist": "Horatiu Jula",
+      "shape":0,
+      "id": "hung_up_madonna","group":"Author",
+      "playcount": 3029692
+    },
+    {
+      "match": 0.230082,
+      "name": "Machine Learning Neural Model",
+      "artist": "Kat Per",
+      "shape":0,
+      "id": "hot_n_cold_katy_perry","group":"Author",
+      "playcount": 6328777
+    },
+    {
+      "match": 0.220354,
+      "name": "Abstract State Machines",
+      "artist": "Nicu G. Fruja",
+      "shape":1,
+      "id": "not_myself_tonight_christina_aguilera","group":"Author",
+      "playcount": 2504457
+    },
+    {
+      "match": 0.205395,
+      "name": "Cloud Computing",
+      "artist": "Nata Kills",
+      "shape":0,
+      "id": "mirrors_natalia_kills","group":"Author",
+      "playcount": 1180380
+    },
+    {
+      "match": 0.201188,
+      "name": "Information Security",
+      "artist": "Madon K",
+      "shape":0,
+      "id": "sorry_madonna","group":"Author",
+      "playcount": 1997475
+    },
+    {
+      "match": 0.196835,
+      "name": "State Machines",
+      "artist": "Egon K",
+      "shape":0,
+      "id": "papi_jennifer_lopez","group":"Author",
+      "playcount": 629395
+    },
+    {
+      "match": 0.188976,
+      "name": "Multichannel Neourology",
+      "artist": "Jenn Lope",
+      "shape":0,
+      "id": "on_the_floor_feat_pitbull_jennifer_lopez","group":"Author",
+      "playcount": 2420886
+    },
+    {
+      "match": 1.0,
+      "name": "Cloud Commentary system",
+      "artist": "Lad Gahj",
+      "shape":1,
+      "id": "alejandro_lady_gaga","group":"Author",
+      "playcount": 7314095
+    },
+    {
+      "match": 0.951622,
+      "name": "Machine Learning-Neural Networks",
+      "artist": "La Font",
+      "shape":0,
+      "id": "poker_face_lady_gaga","group":"Author",
+      "playcount": 10846704
+    },
+    {
+      "match": 0.257456,
+      "name": "Applied graph theory",
+      "artist": "Ran Spears",
+      "shape":0,
+      "id": "hold_it_against_me_britney_spears","group":"Author",
+      "playcount": 5251518
+    },
+    {
+      "match": 0.225985,
+      "name": "Artificial Intelligence",
+      "artist": "Kat Loit",
+      "shape":0,
+      "id": "last_friday_night_tgif_katy_perry","group":"Author",
+      "playcount": 3495395
+    },
+    {
+      "match": 0.220097,
+      "name": "Computer Vision and Pattern",
+      "artist": "Kat Perr",
+      "shape":0,
+      "id": "peacock_katy_perry","group":"Author",
+      "playcount": 2000812
+    },
+    {
+      "match": 0.196237,
+      "name": "Starships",
+      "artist": "Nick Minaj",
+      "shape":1,
+      "id": "starships_nicki_minaj","group":"Author",
+      "playcount": 1806683
+    },
+    {
+      "match": 0.187942,
+      "name": "Speech Audio",
+      "artist": "Kylie Mino",
+      "shape":0,
+      "id": "get_outta_my_way_kylie_minogue","group":"Author",
+      "playcount": 1590633
+    },
+    {
+      "match": 0.178599,
+      "name": "Bio medical ",
+      "artist": "Christina Agui",
+      "shape":0,
+      "id": "bionic_christina_aguilera","group":"Author",
+      "playcount": 966026
+    },
+    {
+      "match": 0.175565,
+      "name": "Signal Processing",
+      "artist": "Nat Klls",
+      "shape":1,
+      "id": "kill_my_boyfriend_natalia_kills","group":"Author",
+      "playcount": 142693
+    },
+    {
+      "match": 0.174766,
+      "name": "Biomed",
+      "artist": "Nicole Scherz",
+      "shape":0,
+      "id": "poison_nicole_scherzinger","group":"Author",
+      "playcount": 636261
+    },
+    {
+      "match": 0.169552,
+      "name": "Machine Learning topic x",
+      "artist": "Dev",
+      "shape":0,
+      "id": "in_the_dark_dev","group":"Author",
+      "playcount": 864653
+    },
+    {
+      "match": 0.168305,
+      "name": "Machine Learning topic x",
+      "artist": "Kylie Minog",
+      "shape":0,
+      "id": "cant_get_you_out_of_my_head_kylie_minogue","group":"Author",
+      "playcount": 1638154
+    },
+    {
+      "match": 0.160747,
+      "name": "Machine Learning topic x",
+      "artist": "Black Ehk",
+      "shape":1,
+      "id": "i_gotta_feeling_black_eyed_peas","group":"Author",
+      "playcount": 5260768
+    },
+    {
+      "match": 0.157658,
+      "name": "Machine Learning topic x",
+      "artist": "Shak lio",
+      "shape":0,
+      "id": "she_wolf_shakira","group":"Author",
+      "playcount": 2560264
+    },
+    {
+      "match": 0.157202,
+      "name": "Automatic",
+      "artist": "Nicki Min",
+      "shape":0,
+      "id": "automatic_nicki_minaj","group":"Author",
+      "playcount": 281590
+    },
+    {
+      "match": 0.151916,
+      "name": "Machine Learning topic x",
+      "artist": "Gwen Stef",
+      "shape":0,
+      "id": "hollaback_girl_gwen_stefani","group":"Author",
+      "playcount": 2194488
+    },
+    {
+      "match": 1.0,
+      "name": "Machine Learning topic x",
+      "artist": "Keji nahu",
+      "shape":0,
+      "id": "your_love_is_my_drug_keha","group":"Author",
+      "playcount": 3395504
+    },
+    {
+      "match": 0.974881,
+      "name": "Machine Learning topic x",
+      "artist": "Yuio Kion",
+      "shape":0,
+      "id": "take_it_off_keha","group":"Author",
+      "playcount": 3068916
+    },
+    {
+      "match": 0.360593,
+      "name": "Machine Learning topic x",
+      "artist": "Kat Per",
+      "shape":0,
+      "id": "california_gurls_feat_snoop_dogg_katy_perry","group":"Author",
+      "playcount": 4776000
+    },
+    {
+      "match": 0.343821,
+      "name": "Machine Learning topic x",
+      "artist": "Tai Crio",
+      "shape":0,
+      "id": "dynamite_taio_cruz","group":"Author",
+      "playcount": 2892870
+    },
+    {
+      "match": 0.340364,
+      "name": "Machine Learning topic x",
+      "artist": "Brit Spea",
+      "shape":1,
+      "id": "i_wanna_go_britney_spears","group":"Author",
+      "playcount": 3023992
+    },
+    {
+      "match": 0.263842,
+      "name": "Machine Learning topic x",
+      "artist": "Kiop Lio",
+      "shape":0,
+      "id": "like_a_g6_far_east_movement","group":"Author",
+      "playcount": 2533109
+    },
+    {
+      "match": 0.245671,
+      "name": "Machine Learning topic x",
+      "artist": "Cascada hui",
+      "shape":0,
+      "id": "evacuate_the_dancefloor_cascada","group":"Author",
+      "playcount": 1263290
+    },
+    {
+      "match": 0.24536,
+      "name": "Machine Learning topic x",
+      "artist": "Cobra Star",
+      "shape":1,
+      "id": "you_make_me_feel_feat_sabi_cobra_starship","group":"Author",
+      "playcount": 232666
+    }
+  ],
+  "links": [
+    {
+      "source": "poker_face_lady_gaga",
+      "value":1,
+      "target": "paparazzi_lady_gaga"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":3,
+      "target": "bad_romance_lady_gaga"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":10,
+      "target": "tik_tok_keha"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":7,
+      "target": "sm_rihanna"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":5,
+      "target": "only_girl_in_the_world_rihanna"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":1,
+      "target": "we_r_who_we_r_keha"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":1,
+      "target": "toxic_britney_spears"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":4,
+      "target": "i_kissed_a_girl_katy_perry"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":1,
+      "target": "till_the_world_ends_britney_spears"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":1,
+      "target": "hung_up_madonna"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":1,
+      "target": "hot_n_cold_katy_perry"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":9,
+      "target": "not_myself_tonight_christina_aguilera"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":1,
+      "target": "mirrors_natalia_kills"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":10,
+      "target": "sorry_madonna"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":1,
+      "target": "papi_jennifer_lopez"
+    },
+    {
+      "source": "poker_face_lady_gaga",
+        "value":1,
+      "target": "on_the_floor_feat_pitbull_jennifer_lopez"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+      "target": "alejandro_lady_gaga"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":10,
+      "target": "poker_face_lady_gaga"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":10,
+      "target": "hold_it_against_me_britney_spears"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "last_friday_night_tgif_katy_perry"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "peacock_katy_perry"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "starships_nicki_minaj"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "get_outta_my_way_kylie_minogue"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":19,
+      "target": "bionic_christina_aguilera"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":11,
+      "target": "kill_my_boyfriend_natalia_kills"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "poison_nicole_scherzinger"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "in_the_dark_dev"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "cant_get_you_out_of_my_head_kylie_minogue"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "i_gotta_feeling_black_eyed_peas"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":10,
+      "target": "she_wolf_shakira"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "automatic_nicki_minaj"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+        "value":1,
+      "target": "hollaback_girl_gwen_stefani"
+    },
+    {
+      "source": "tik_tok_keha",
+        "value":1,
+      "target": "your_love_is_my_drug_keha"
+    },
+    {
+      "source": "tik_tok_keha",
+        "value":18,
+      "target": "take_it_off_keha"
+    },
+    {
+      "source": "tik_tok_keha",
+        "value":1,
+      "target": "california_gurls_feat_snoop_dogg_katy_perry"
+    },
+    {
+      "source": "tik_tok_keha",
+        "value":5,
+      "target": "dynamite_taio_cruz"
+    }
+  ]
+}

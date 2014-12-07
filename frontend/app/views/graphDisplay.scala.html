@@ -1,0 +1,265 @@
+
+
+@import helper._
+@import com.google.gson.Gson
+
+@main("Graph Generation") {
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>CoAuthor Networks: Interactive Network</title>
+  <meta name="description" content="Interactive Network Visualization.">
+  <meta name="author" content="">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href='@routes.Assets.at("css/reset.css")'>
+  <link rel="stylesheet" href='@routes.Assets.at("css/bootstrap.min.css")'>
+  <link rel="stylesheet" href='@routes.Assets.at("css/style.css")'>
+  <!-- end CSS-->
+
+  <script src='@routes.Assets.at("js/libs/modernizr-2.0.6.min.js")'></script>
+  <script>
+  $(document).ready(function() {
+	    function close_accordion_section() {
+	        $('.accordion .accordion-section-title').removeClass('active');
+	        $('.accordion .accordion-section-content').slideUp(300).removeClass('open');
+	    }
+	 
+	    $('.accordion-section-title').click(function(e) {
+	        // Grab current anchor value
+	        var currentAttrValue = $(this).attr('href');
+	 
+	        if($(e.target).is('.active')) {
+	            close_accordion_section();
+	        }else {
+	            close_accordion_section();
+	 
+	            // Add active class to section title
+	            $(this).addClass('active');
+	            // Open up the hidden content panel
+	            $('.accordion ' + currentAttrValue).slideDown(300).addClass('open'); 
+	        }
+	 
+	        e.preventDefault();
+	    });
+	});
+  </script>
+</head>
+
+<body>
+
+  <div id="container" class="container">
+    <header>
+    <h1>Scientific Collaboration Network</h1>
+    <p>Researchers have been collaborating to make scientific breakthroughs. In this project, we aim to visualize and analyze 
+    researchers' past collaboration history and base on that, help to recommend potential collaborators.(Below is a sample co-author graph for cloud computing)
+    </p>
+    </header>
+    <div class="accordion">
+    <div class="accordion-section">
+        <a class="accordion-section-title" href="#accordion-1">Search Panel</a>
+         
+        <div id="accordion-1" class="accordion-section-content">
+            
+              <form name="searchmodal">
+<input type="radio" name="search_by" value="Topic" checked onClick="toggleDiv('bytopic','byauthor')"><b><i>&nbsp;&nbsp;TOPIC</i></b>
+<br>
+<div name="topic_search"  id="bytopic" style = "float:right; width: 70%;">
+	<p class="search_title">Enter Topics(Multiple topics separated by comma):  <input type="text" class="text-input" id="topictextbox" value="" /></p>
+    <div id = "sortbytopic"><p>Sort by:
+    <select id="sort_select_topic">
+    	<option value="Publication">Publication Count</option>
+        <option value="Citation">Citation Count</option>
+    </select></p></div>
+    <p>Limit to:
+    <select id="limit_select_topic">
+    	<option value="10">Less than 10</option>
+        <option value="30">Less than 30</option>
+        <option value="50">Less than 50</option>
+        <option value="100">Less than 100</option>
+    </select></p>
+    <p id="trust_p"><input name="trust" type="checkbox">Add Trust Score</p>
+</div>
+      
+<input type="radio" name="search_by" value="Author" onClick="toggleDiv('byauthor','bytopic')"><b><i>&nbsp;&nbsp;AUTHOR</i></b>
+<div name="Author_search" style="display:none;float:right; width: 70%;" id="byauthor">
+	<p class="search_title"> Enter Author Name:  <input type="text" class="text-input" id="author" value="" /></p>
+    <p>Sort by:
+    <select id="sort_select_author">
+    	<option value="Publication">Publication Count</option>
+        <option value="Citation">Citation Count</option>
+    </select></p>
+    <p>Limit to:
+    	<select id="limit_select_author">
+        	<option value="10">Less than 10</option>
+        	<option value="30">Less than 30</option>
+          	<option value="50">Less than 50</option>
+          	<option value="100">Less than 100</option>
+        </select>
+    </p>
+</div>
+      
+</form>
+ <div class="searchfooter" style="float:right; width: 70%;">
+       
+        <button type="button" id="searchbtn" class="btn btn-primary">Search</button>
+      </div>
+ </div>
+            
+            </div><!--end .accordion-section-content-->
+    </div><!--end .accordion-section-->
+</div><!--end .accordion-->
+<!--  <div class="modal-body">
+      <form name="searchmodal">
+<input type="radio" name="search_by" value="Topic" checked onClick="toggleDiv('bytopic','byauthor')"><b><i>&nbsp;&nbsp;TOPIC</i></b>
+<br>
+<div name="topic_search"  id="bytopic" style = "float:right; width: 70%;">
+	<p class="search_title">Enter Topics(Multiple topics separated by comma):  <input type="text" class="text-input" id="topictextbox" value="" /></p>
+    <div id = "sortbytopic"><p>Sort by:
+    <select id="sort_select_topic">
+    	<option value="Publication">Publication Count</option>
+        <option value="Citation">Citation Count</option>
+    </select></p></div>
+    <p>Limit to:
+    <select id="limit_select_topic">
+    	<option value="10">Less than 10</option>
+        <option value="30">Less than 30</option>
+        <option value="50">Less than 50</option>
+        <option value="100">Less than 100</option>
+    </select></p>
+    <p><input name="trust" type="checkbox">Add Trust Score</p>
+</div>
+      
+<input type="radio" name="search_by" value="Author" onClick="toggleDiv('byauthor','bytopic')"><b><i>&nbsp;&nbsp;AUTHOR</i></b>
+<div name="Author_search" style="display:none;float:right; width: 70%;" id="byauthor">
+	<p class="search_title"> Enter Author Name:  <input type="text" class="text-input" id="author" value="" /></p>
+    <p>Sort by:
+    <select id="sort_select_author">
+    	<option value="Publication">Publication Count</option>
+        <option value="Citation">Citation Count</option>
+    </select></p>
+    <p>Limit to:
+    	<select id="limit_select_author">
+        	<option value="10">Less than 10</option>
+        	<option value="30">Less than 30</option>
+          	<option value="50">Less than 50</option>
+          	<option value="100">Less than 100</option>
+        </select>
+    </p>
+</div>
+      
+</form>
+ <div class="searchfooter" style="float:right; width: 70%;">
+       
+        <button type="button" id="searchbtn" class="btn btn-primary">Search</button>
+      </div>
+ </div> -->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<SCRIPT LANGUAGE="JavaScript">
+function fullName(form) {
+    for (var i = 0; i < form.search_by.length; i++) {
+        if (form.search_by[i].checked) {
+            break
+        }
+    }
+    alert("You chose " + form.search_by[i].value + ".")
+    document.getElementById('bytopic').style.display = "block";
+}
+</SCRIPT>
+      
+     
+      <!-- <div id="song_selection" class="control">
+        <h3>Topic</h3>
+        <select id="song_select">
+          <option value="auth_cloud_computing.json">Big Data</option>
+          <option value="auth_mach_learng.json">Machine Learning</option>
+          <option value="Cloud Computing">Cloud Computing</option>
+          <option value="All">All</option>
+        </select>
+
+      </div> -->
+    <div id="controls">
+      <!--  <div id="layouts" class="control">
+        <h3>Layout</h3>
+        <a id="force" class="active">Force Directed Network</a>
+        <a id="radial">Authors</a>
+      </div>
+      <div id="filters" class="control">
+        <h3>Filter</h3>
+        <a id="all" class="active">All</a>
+        <a id="popular">Expert</a>
+        <a id="obscure">Amateur</a>
+      </div>  -->
+    
+      <div id="coauthorgraphdiv" class="control">
+        <h3>Type of Graph</h3>
+        <a id="coauthor" class="active">Author Network</a>
+      </div> 
+      <div id="authorpublicationgraphdiv" class="control">
+      <h3>.</h3>
+        <a id="authorpublication">Author and Publication Network</a>
+      </div>
+     <!-- <div id="copublicationgraphdiv" class="control">
+       <h3>.</h3>
+        <a id="copublication">Publication Network</a>
+      </div> -->
+      <div id="search_section" class="control">
+        <form id="search_form" action=""  method="post">
+          <p class="search_title">Graph Node: <input type="text" class="text-input" id="search" value="" /></p>
+        </form>
+      </div> 
+      <div id="mapview" class="control">
+      <h3>Map View</h3>
+        <a id="map" href="/mapSchoolsLocation">Map Institutes</a>
+      </div>
+    <div id="main"  role="main">
+    	<div id="vis" style = "float:left; width: 50%;"></div>
+      	<div id="loadingimagediv" style = "float:left; height: 5%; width: 5%;" hidden="true">
+      		<img src='@routes.Assets.at("images/loading.gif")'>
+      	</div>
+        <div style = "float:right; width: 40%;" id="rightTopSidebar"></div >
+    </div>
+    
+    
+  </div> <!--! end of #container -->
+
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
+  <script>window.jQuery || document.write("<script src='@routes.Assets.at("js/libs/jquery-1.7.2.min.js")'><\/script>")</script>
+
+
+  <script defer src='@routes.Assets.at("js/plugins.js")'></script>
+  <script defer src='@routes.Assets.at("js/script.js")'></script>
+  <script src='@routes.Assets.at("js/libs/coffee-script.js")'></script>
+  <script src='@routes.Assets.at("js/libs/d3.v2.js")'></script>
+  <script src='@routes.Assets.at("js/Tooltip.js")'></script>
+  <script src='@routes.Assets.at("js/vis.js")'></script>
+  <script src="@controllers.routes.Application.javascriptRoutes()" type="text/javascript">
+  <!--<script type="text/coffeescript" src="coffee/vis.coffee"></script>!-->
+
+  <script> // Change UA-XXXXX-X to be your site's ID
+    window._gaq = [['_setAccount','UAXXXXXXXX1'],['_trackPageview'],['_trackPageLoadTime']];
+    Modernizr.load({
+      load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
+    });
+  </script>
+
+
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+  
+</body>
+</html>
+
+}

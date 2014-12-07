@@ -1,0 +1,1738 @@
+Dec 04, 2014 6:30:33 AM edu.cmu.dblp.Main main
+INFO: Loading DBLP XML has started!!!!
+Dec 04, 2014 6:30:36 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 10000
+Dec 04, 2014 6:30:36 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 2 sec
+Dec 04, 2014 6:30:36 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 20000
+Dec 04, 2014 6:30:36 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 3 sec
+Dec 04, 2014 6:30:36 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 30000
+Dec 04, 2014 6:30:36 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 3 sec
+Dec 04, 2014 6:30:37 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 40000
+Dec 04, 2014 6:30:37 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 3 sec
+Dec 04, 2014 6:30:37 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 50000
+Dec 04, 2014 6:30:37 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 3 sec
+Dec 04, 2014 6:30:37 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 60000
+Dec 04, 2014 6:30:37 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 4 sec
+Dec 04, 2014 6:30:37 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 70000
+Dec 04, 2014 6:30:37 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 4 sec
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 80000
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 4 sec
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 90000
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 4 sec
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 100000
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 4 sec
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 110000
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 5 sec
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 120000
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 5 sec
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 130000
+Dec 04, 2014 6:30:38 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 5 sec
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 140000
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 5 sec
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 150000
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 5 sec
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 160000
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 5 sec
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 170000
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 6 sec
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 180000
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 6 sec
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 190000
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 6 sec
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 200000
+Dec 04, 2014 6:30:39 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 6 sec
+Dec 04, 2014 6:30:40 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 210000
+Dec 04, 2014 6:30:40 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 6 sec
+Dec 04, 2014 6:30:40 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 220000
+Dec 04, 2014 6:30:40 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 6 sec
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 230000
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 7 sec
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 240000
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 7 sec
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 250000
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 7 sec
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 260000
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 7 sec
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 270000
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 8 sec
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 280000
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 8 sec
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 290000
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 8 sec
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 300000
+Dec 04, 2014 6:30:41 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 8 sec
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 310000
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 8 sec
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 320000
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 8 sec
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 330000
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 8 sec
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 340000
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 350000
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 360000
+Dec 04, 2014 6:30:42 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 370000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 380000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 390000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 400000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 9 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 410000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 10 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 420000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 10 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 430000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 10 sec
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 440000
+Dec 04, 2014 6:30:43 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 10 sec
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 450000
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 10 sec
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 460000
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 10 sec
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 470000
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 10 sec
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 480000
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 10 sec
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 490000
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 11 sec
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 500000
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 11 sec
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 510000
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 11 sec
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 520000
+Dec 04, 2014 6:30:44 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 11 sec
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 530000
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 11 sec
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 540000
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 11 sec
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 550000
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 11 sec
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 560000
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 12 sec
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 570000
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 12 sec
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 580000
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 12 sec
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 590000
+Dec 04, 2014 6:30:45 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 12 sec
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 600000
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 12 sec
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 610000
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 12 sec
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 620000
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 12 sec
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 630000
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 13 sec
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 640000
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 13 sec
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 650000
+Dec 04, 2014 6:30:46 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 13 sec
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 660000
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 13 sec
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 670000
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 13 sec
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 680000
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 13 sec
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 690000
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 13 sec
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 700000
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 14 sec
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 710000
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 14 sec
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 720000
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 14 sec
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 730000
+Dec 04, 2014 6:30:47 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 14 sec
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 740000
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 14 sec
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 750000
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 14 sec
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 760000
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 14 sec
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 770000
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 14 sec
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 780000
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 15 sec
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 790000
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 15 sec
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 800000
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 15 sec
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 810000
+Dec 04, 2014 6:30:48 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 15 sec
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 820000
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 15 sec
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 830000
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 15 sec
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 840000
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 15 sec
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 850000
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 16 sec
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 860000
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 16 sec
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 870000
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 16 sec
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 880000
+Dec 04, 2014 6:30:49 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 16 sec
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 890000
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 16 sec
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 900000
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 16 sec
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 910000
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 16 sec
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 920000
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 16 sec
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 930000
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 17 sec
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 940000
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 17 sec
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 950000
+Dec 04, 2014 6:30:50 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 17 sec
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 960000
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 17 sec
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 970000
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 17 sec
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 980000
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 17 sec
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 990000
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 17 sec
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1000000
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 18 sec
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1010000
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 18 sec
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1020000
+Dec 04, 2014 6:30:51 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 18 sec
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1030000
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 18 sec
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1040000
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 18 sec
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1050000
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 18 sec
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1060000
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 18 sec
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1070000
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 19 sec
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1080000
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 19 sec
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1090000
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 19 sec
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1100000
+Dec 04, 2014 6:30:52 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 19 sec
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1110000
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 19 sec
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1120000
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 19 sec
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1130000
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 19 sec
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1140000
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 20 sec
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1150000
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 20 sec
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1160000
+Dec 04, 2014 6:30:53 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 20 sec
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1170000
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 20 sec
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1180000
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 20 sec
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1190000
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 20 sec
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1200000
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 20 sec
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1210000
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 21 sec
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1220000
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 21 sec
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1230000
+Dec 04, 2014 6:30:54 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 21 sec
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1240000
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 21 sec
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1250000
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 21 sec
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1260000
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 21 sec
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1270000
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 21 sec
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1280000
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 21 sec
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1290000
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 22 sec
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1300000
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 22 sec
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1310000
+Dec 04, 2014 6:30:55 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 22 sec
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1320000
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 22 sec
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1330000
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 22 sec
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1340000
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 22 sec
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1350000
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 23 sec
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1360000
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 23 sec
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1370000
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 23 sec
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1380000
+Dec 04, 2014 6:30:56 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 23 sec
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1390000
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 23 sec
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1400000
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 23 sec
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1410000
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 23 sec
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1420000
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 23 sec
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1430000
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 24 sec
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1440000
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 24 sec
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1450000
+Dec 04, 2014 6:30:57 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 24 sec
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1460000
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 24 sec
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1470000
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 24 sec
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1480000
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 24 sec
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1490000
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 24 sec
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1500000
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 24 sec
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1510000
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 25 sec
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1520000
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 25 sec
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1530000
+Dec 04, 2014 6:30:58 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 25 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1540000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 25 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1550000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 25 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1560000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 25 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1570000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 25 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1580000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 25 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1590000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1600000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1610000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1620000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1630000
+Dec 04, 2014 6:30:59 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1640000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1650000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1660000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1670000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1680000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1690000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1700000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1710000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 26 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1720000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1730000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1740000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1750000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1760000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1770000
+Dec 04, 2014 6:31:00 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1780000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1790000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1800000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1810000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1820000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1830000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1840000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 27 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1850000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1860000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1870000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1880000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1890000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1900000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1910000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1920000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1930000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1940000
+Dec 04, 2014 6:31:01 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1950000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1960000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1970000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1980000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 1990000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2000000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2010000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2020000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2030000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2040000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2050000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 28 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2060000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2070000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2080000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2090000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2100000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2110000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2120000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2130000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2140000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2150000
+Dec 04, 2014 6:31:02 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2160000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2170000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2180000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2190000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2200000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2210000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2220000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2230000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2240000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2250000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2260000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 29 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2270000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2280000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2290000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2300000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2310000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2320000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2330000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2340000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2350000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2360000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2370000
+Dec 04, 2014 6:31:03 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2380000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2390000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2400000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2410000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2420000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2430000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2440000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2450000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2460000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2470000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 30 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2480000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2490000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2500000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2510000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2520000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2530000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2540000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2550000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2560000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2570000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2580000
+Dec 04, 2014 6:31:04 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2590000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2600000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2610000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2620000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2630000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2640000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2650000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2660000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2670000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2680000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2690000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 31 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2700000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2710000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2720000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2730000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2740000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2750000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2760000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2770000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2780000
+Dec 04, 2014 6:31:05 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2790000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2800000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2810000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2820000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2830000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2840000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2850000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2860000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2870000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2880000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2890000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 32 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2900000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2910000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2920000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2930000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2940000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2950000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2960000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2970000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2980000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 2990000
+Dec 04, 2014 6:31:06 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:07 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3000000
+Dec 04, 2014 6:31:07 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 33 sec
+Dec 04, 2014 6:31:07 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3010000
+Dec 04, 2014 6:31:07 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 34 sec
+Dec 04, 2014 6:31:07 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3020000
+Dec 04, 2014 6:31:07 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 34 sec
+Dec 04, 2014 6:31:08 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3030000
+Dec 04, 2014 6:31:08 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 34 sec
+Dec 04, 2014 6:31:08 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3040000
+Dec 04, 2014 6:31:08 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 34 sec
+Dec 04, 2014 6:31:08 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3050000
+Dec 04, 2014 6:31:08 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 35 sec
+Dec 04, 2014 6:31:08 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3060000
+Dec 04, 2014 6:31:08 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 35 sec
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3070000
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 35 sec
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3080000
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 35 sec
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3090000
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 36 sec
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3100000
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 36 sec
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3110000
+Dec 04, 2014 6:31:09 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 36 sec
+Dec 04, 2014 6:31:10 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3120000
+Dec 04, 2014 6:31:10 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 36 sec
+Dec 04, 2014 6:31:10 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3130000
+Dec 04, 2014 6:31:10 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 36 sec
+Dec 04, 2014 6:31:10 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3140000
+Dec 04, 2014 6:31:10 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 37 sec
+Dec 04, 2014 6:31:10 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3150000
+Dec 04, 2014 6:31:10 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 37 sec
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3160000
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 37 sec
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3170000
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 37 sec
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3180000
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 38 sec
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3190000
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 38 sec
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3200000
+Dec 04, 2014 6:31:11 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 38 sec
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3210000
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 38 sec
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3220000
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 38 sec
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3230000
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 38 sec
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3240000
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 38 sec
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3250000
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 39 sec
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3260000
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 39 sec
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3270000
+Dec 04, 2014 6:31:12 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 39 sec
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3280000
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 39 sec
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3290000
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 39 sec
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3300000
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 39 sec
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3310000
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 39 sec
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3320000
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 40 sec
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3330000
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 40 sec
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3340000
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 40 sec
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3350000
+Dec 04, 2014 6:31:13 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 40 sec
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3360000
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 40 sec
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3370000
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 40 sec
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3380000
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 40 sec
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3390000
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 41 sec
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3400000
+Dec 04, 2014 6:31:14 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 41 sec
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3410000
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 41 sec
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3420000
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 41 sec
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3430000
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 41 sec
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3440000
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 41 sec
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3450000
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 42 sec
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3460000
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 42 sec
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3470000
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 42 sec
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3480000
+Dec 04, 2014 6:31:15 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 42 sec
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3490000
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 42 sec
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3500000
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 42 sec
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3510000
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 42 sec
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3520000
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 43 sec
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3530000
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 43 sec
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3540000
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 43 sec
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3550000
+Dec 04, 2014 6:31:16 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 43 sec
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3560000
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 43 sec
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3570000
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 43 sec
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3580000
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 43 sec
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3590000
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 44 sec
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3600000
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 44 sec
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3610000
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 44 sec
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3620000
+Dec 04, 2014 6:31:17 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 44 sec
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3630000
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 44 sec
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3640000
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 44 sec
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3650000
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 44 sec
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3660000
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 45 sec
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3670000
+Dec 04, 2014 6:31:18 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 45 sec
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3680000
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 45 sec
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3690000
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 45 sec
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3700000
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 45 sec
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3710000
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 45 sec
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3720000
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 45 sec
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3730000
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 46 sec
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3740000
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 46 sec
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3750000
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 46 sec
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3760000
+Dec 04, 2014 6:31:19 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 46 sec
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3770000
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 46 sec
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3780000
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 46 sec
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3790000
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 46 sec
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3800000
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 47 sec
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3810000
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 47 sec
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3820000
+Dec 04, 2014 6:31:20 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 47 sec
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3830000
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 47 sec
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3840000
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 47 sec
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3850000
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 47 sec
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3860000
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 47 sec
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3870000
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 48 sec
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3880000
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 48 sec
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3890000
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 48 sec
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3900000
+Dec 04, 2014 6:31:21 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 48 sec
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3910000
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 48 sec
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3920000
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 48 sec
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3930000
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 48 sec
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3940000
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 48 sec
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3950000
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 49 sec
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3960000
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 49 sec
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3970000
+Dec 04, 2014 6:31:22 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 49 sec
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3980000
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 49 sec
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 3990000
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 49 sec
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4000000
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 49 sec
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4010000
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 49 sec
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4020000
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 49 sec
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4030000
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 50 sec
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4040000
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 50 sec
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4050000
+Dec 04, 2014 6:31:23 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 50 sec
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4060000
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 50 sec
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4070000
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 50 sec
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4080000
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 50 sec
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4090000
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 50 sec
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4100000
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 51 sec
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4110000
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 51 sec
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4120000
+Dec 04, 2014 6:31:24 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 51 sec
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4130000
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 51 sec
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4140000
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 51 sec
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4150000
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 51 sec
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4160000
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 52 sec
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4170000
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 52 sec
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4180000
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 52 sec
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4190000
+Dec 04, 2014 6:31:25 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 52 sec
+Dec 04, 2014 6:31:26 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4200000
+Dec 04, 2014 6:31:26 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 52 sec
+Dec 04, 2014 6:31:26 AM edu.cmu.dblp.Main printCounter
+INFO: Inserted Entries so far: 4210000
+Dec 04, 2014 6:31:26 AM edu.cmu.dblp.Main printCounter
+INFO: Elapsed time so far: 0 min 52 sec

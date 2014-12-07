@@ -1,0 +1,29 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                                   					controllers.Application.index()
+
+# Login and authentication
+GET     /login                              					controllers.Application.login()
+POST    /login                              					controllers.Application.authenticate()
+GET     /logout                             					controllers.Application.logout()
+
+# Graph Display
+GET     /graphDisplay                       					controllers.GraphDisplay.graphDisplay()
+GET     /getCoAuthorGraphDataByTopic/:parameter    				controllers.GraphDisplay.getCoAuthorGraphDataByTopic(parameter: String)
+GET     /getAuthorPublicationGraphDataByTopic/:parameter    	controllers.GraphDisplay.getAuthorPublicationGraphDataByTopic(parameter: String)
+GET     /getCoPublicationGraphDataByTopic/:parameter    		controllers.GraphDisplay.getCoPublicationGraphDataByTopic(parameter: String)
+GET     /getCoAuthorGraphDataByAuthor/:parameter    			controllers.GraphDisplay.getCoAuthorGraphDataByAuthor(parameter: String)
+GET     /getAuthorPublicationGraphDataByAuthor/:parameter    	controllers.GraphDisplay.getAuthorPublicationGraphDataByAuthor(parameter: String)
+
+# Map Schools
+GET     /getSchoolsByTopic/:topic           					controllers.GraphDisplay.getSchoolsByTopic(topic: String)
+GET     /mapSchoolsLocation                 					controllers.GraphDisplay.mapSchoolsLocation()
+
+# Map route to the javascript which contains the routes used by the AJAX calls
+GET     /assets/js/routes                   					controllers.Application.javascriptRoutes()
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file                       					controllers.Assets.at(path="/public", file)

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+
+    <title>Map Location</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href='@routes.Assets.at("stylesheets/bootstrap.css")'>
+    <link rel="stylesheet" href='@routes.Assets.at("stylesheets/navbar-fixed-top.css")'>
+    <link rel="stylesheet" href='@routes.Assets.at("stylesheets/custom.css")'>
+    <link rel="stylesheet" media="screen" href='@routes.Assets.at("stylesheets/main.css")'>
+    <link rel="shortcut icon" type="image/png" href='@routes.Assets.at("images/favicon.png")'>
+
+    <link href='@routes.Assets.at("stylesheets/bootstrap-editable.css")' rel="stylesheet" />
+
+    <script src='@routes.Assets.at("javascripts/jquery-1.9.0.min.js")' type="text/javascript"></script>
+    <script src='@routes.Assets.at("javascripts/bootstrap.min.js")' type="text/javascript"></script>
+    <script src='@routes.Assets.at("javascripts/bootstrap-editable.min.js")'></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script src='@routes.Assets.at("js/maplocation.js")' type="text/javascript"></script>
+    <script src="@controllers.routes.Application.javascriptRoutes()" type="text/javascript"></script>
+
+  </head>
+
+  <body>
+  
+  	@header()
+
+    <div class="container">
+    	<div id="searchbar">
+    	    <form id="searchbarform" action="">
+    	    	<p> Topic <input type="text" class="text-input" id="searchtopic" value="" /><button type="button" id="buttonsearchtopic" class="btn btn-primary">Search</button></p>
+    	    </form>
+    	</div>
+    	<div id="map3d" style="height: 400px; width: 600px;"></div>
+
+      <!-- Footer -->
+      <div class="footer">
+        <div class="row">
+          <div class="col-lg-4 col-lg-offset-8">
+            <p class="text-muted" style="text-align: right; font-size: 14px;">&copy; Carnegie Mellon University. Silicon Valley. 2014</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+</html>

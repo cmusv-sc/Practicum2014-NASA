@@ -1,0 +1,6 @@
+To import the dump file, go to mysql installation folder to execute mysqldump command
+If mysql is already in your system path, you can directly run it
+Before running unzip the file (either via program or command 'gunzip [backupfile.sql.gz]'
+Then use mysqldump command to load the data
+mysql -u root -p dblp < backupfile.sql
+Change the user and password if you need

@@ -1,0 +1,28 @@
+
+@()
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" style="padding-bottom: 0;" href="/">
+        <img src='@routes.Assets.at("images/logo.png")' style="height: 28px;">
+      </a>
+    </div>
+    <div class="navbar-collapse collapse" style="height:">
+      <ul class="nav navbar-nav navbar-right">
+
+        <li><a href="@routes.Application.index()">Home</a></li>
+
+        @if(!session.get("email")){
+        <form class="navbar-form navbar-right" action="@routes.Application.login()">
+          <button type="submit" class="btn btn-link">Log in</button>
+        </form>
+        }else{
+          <form class="navbar-form navbar-right" action="@routes.Application.logout()">
+          <button type="submit" class="btn btn-link">Log out</button>
+        </form>
+        }
+
+      </ul>
+    </div>
+  </div>
+</div>
